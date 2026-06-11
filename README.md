@@ -16,7 +16,7 @@ Currently a Master's student in Computer Science at Czestochowa University of Te
 
 ## 🏆 Featured Projects
 
-- [Digital Signature](https://github.com/DigitalSignature-Project/DigitalSignature) [WIP] <br>
+- [Digital Signature](https://github.com/DigitalSignature-Project/DigitalSignature) <br>
 Desktop application for generating and verifying digital signatures using asymmetric cryptography. <br>
 → Python (FastAPI, Pytest), C++ (PYD), React, TypeScript, Tauri, PostgreSQL
 
