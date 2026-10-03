@@ -26,7 +26,7 @@ Financial market analysis tool generating trading signals using expert systems a
 
 ## 🚀 Other Projects
 
-- [Smart Advisor V2](https://github.com/gabrielkomor/SmartAdvisorV2) [WIP] <br>
+- [Smart Advisor V2](https://github.com/gabrielkomor/SmartAdvisorV2) <br>
 Refactored version of a financial advisory app, migrated from PyQt6 to a modern fullstack architecture. <br>
 → Python (FastAPI, Pytest, pywebview), React, TypeScript, C++ (PYD)
 
